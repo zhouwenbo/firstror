@@ -43,7 +43,7 @@ class ArticlesController < ApplicationController
     redirect_to articles_path
   end
 =begin
-  You have to put the edit and update methods above private.
+  You have to put the edit and update methods above private.ffffff
   Anything below private will be a private method and edit and update should be public methods.
 =end
 
